@@ -1,0 +1,14 @@
+# Hydra
+./*.img
+
+# Boot
+Boot/*.o
+Boot/*.bin
+
+# Kernel
+Kernel/*.o
+Kernel/*.bin
+
+# Toolchain
+Toolchain/*
+!Toolchain/README.md
